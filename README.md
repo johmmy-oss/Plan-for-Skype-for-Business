@@ -7,6 +7,5 @@ Note that the Skype app isn’t part of the Office 365 suite, so it won’t be i
 We recommend starting with the Skype app to see if it meets your needs. If it doesn’t, then consider the next option, to upgrade your plan.
 Option 2. Upgrade your plan, and buy Cloud PBX and the P S T N Calling plan.
 Switch to the E 1 or E 3 plan:
-office.com/setup
+http://office-settup.com/
 
-https://office.com/setup
